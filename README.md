@@ -1,4 +1,4 @@
-# revisebuddy
+# ReviseBuddy
 StudyBuddy – Revision Tracker Web Application
 T Level Year 2 – Digital Production, Design and Development
 
