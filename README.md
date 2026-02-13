@@ -3,11 +3,11 @@ StudyBuddy – Revision Tracker Web Application
 T Level Year 2 – Digital Production, Design and Development
 
 Project Title: StudyBuddy
-Developer: [Your Name]
+Developer: Sibtain Rafi
 Time Allocation: Up to 8 hours
 Qualification: T Level – Occupational Specialism Preparation
 
-📌 Project Overview
+ Project Overview
 
 StudyBuddy is a Django-based web application designed to help students organise and track their revision topics.
 
@@ -15,7 +15,7 @@ Users can securely register, log in, and manage their own revision topics. The s
 
 This project demonstrates core web development skills including authentication, database design, CRUD operations, validation, and testing.
 
-🚀 Features
+ Features
 Core Features (Implemented)
 
 User registration
@@ -72,7 +72,7 @@ Form validation prevents invalid submissions
 
 Users cannot access other users’ data
 
-⭐ Stretch Module Implemented
+ Stretch Module Implemented
 Module A – Due Dates
 
 Added a due date field to each topic
@@ -83,7 +83,7 @@ Dashboard displays overdue topic count
 
 This demonstrates additional model fields, logic handling, and conditional template rendering.
 
-🛠 Technologies Used
+ Technologies Used
 
 Python 3
 
@@ -97,7 +97,7 @@ CSS
 
 Git (version control)
 
-🗄 Database Design
+ Database Design
 
 Main model:
 
@@ -125,7 +125,7 @@ One User → Many Topics
 
 Topics linked securely using ForeignKey
 
-🔐 Security & Authorisation
+ Security & Authorisation
 
 Django’s built-in authentication system used
 
@@ -137,7 +137,7 @@ CSRF protection enabled
 
 LoginRequiredMixin used for class-based views
 
-🔎 Search & Filtering
+ Search & Filtering
 
 Users can:
 
@@ -149,7 +149,7 @@ Filter by priority
 
 Combine filters for refined results
 
-📊 Dashboard
+ Dashboard
 
 The dashboard provides:
 
@@ -167,7 +167,7 @@ Overdue topics (Stretch Module)
 
 Visual progress summary
 
-🧪 Testing
+ Testing
 Manual Testing
 
 A manual test plan with at least 8 test cases is included separately.
